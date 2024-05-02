@@ -1,1 +1,1 @@
-Rodando streaming de um video via protocolo UDP em DJANGO
+Streaming de um video via protocolo UDP em DJANGO
